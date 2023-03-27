@@ -135,3 +135,9 @@ dmypy.json
 /temp.sh
 
 .idea
+.DS_Store
+dataset/
+checkpoints/
+requirements_original.txt
+structure_graphs/
+*.ipynb
